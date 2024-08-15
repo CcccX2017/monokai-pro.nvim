@@ -322,11 +322,13 @@ M.setup_bufferline_icon = function(icon_hl_name, icon_color)
       fg = icon_color,
     },
     ["BufferLine" .. icon_hl_name] = {
-      bg = tab.inactiveBackground,
+      bg = tab.activeBackground,
+      -- bg = tab.inactiveBackground,
       fg = icon_color,
     },
     ["BufferLine" .. icon_hl_name .. "Inactive"] = {
-      bg = tab.unfocusedActiveBackground,
+      bg = tab.activeBackground,
+      -- bg = tab.unfocusedActiveBackground,
       fg = icon_color,
     },
   }
