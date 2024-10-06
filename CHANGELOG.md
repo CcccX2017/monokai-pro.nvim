@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.23.0](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.22.0...v1.23.0) (2024-10-03)
+
+
+### Features
+
+* support python highlighting ([6837a66](https://github.com/loctvl842/monokai-pro.nvim/commit/6837a66909c5ae5cadffdd719ea57e04a6d83195))
+* support treesitter yaml ([b12c243](https://github.com/loctvl842/monokai-pro.nvim/commit/b12c24354018b52c264729b9957ec2f8b2d81a3e))
+
+## [1.22.0](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.21.2...v1.22.0) (2024-09-18)
+
+
+### Features
+
+* support fzf-lua ([5fff1b3](https://github.com/loctvl842/monokai-pro.nvim/commit/5fff1b370d9281ab213168bae921c820ed577c39))
+
 ## [1.21.2](https://github.com/loctvl842/monokai-pro.nvim/compare/v1.21.1...v1.21.2) (2024-05-25)
 
 

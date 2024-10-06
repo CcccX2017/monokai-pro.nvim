@@ -17,6 +17,7 @@ setmetatable(M, {
 ---@enum SupportedPlugins
 local PLUGINS = {
   "mini",
+  "aerial",
   "alpha",
   "beacon",
   "breadcrumb",
@@ -24,6 +25,8 @@ local PLUGINS = {
   "cmp",
   "coc",
   "dashboard",
+  "fidget",
+  "fzf-lua",
   "gitsign",
   "illuminate",
   "indent_blankline",
