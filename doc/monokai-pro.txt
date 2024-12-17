@@ -1,4 +1,4 @@
-*monokai-pro.txt*       For Neovim >= 0.8.0      Last change: 2024 November 20
+*monokai-pro.txt*       For Neovim >= 0.8.0      Last change: 2024 December 16
 
 ==============================================================================
 Table of Contents                              *monokai-pro-table-of-contents*
@@ -116,8 +116,8 @@ There are several themes included in this plugin.
 - |monokai-pro-pro| – Monokai Pro _(default)_
 - |monokai-pro-octagon| – Monokai Pro (Filter Octagon)
 - |monokai-pro-machine| – Monokai Pro (Filter Machine)
-- |monokai-pro-ristretto| – Monokai Pro (Filter Machine)
-- |monokai-pro-spectrum| – Monokai Pro (Filter Machine)
+- |monokai-pro-ristretto| – Monokai Pro (Filter Ristretto)
+- |monokai-pro-spectrum| – Monokai Pro (Filter Spectrum)
 - |monokai-pro-classic| – Monokai Classic
 
 Example configuration:
